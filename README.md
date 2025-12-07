@@ -1,6 +1,7 @@
 Number Guessing Game (Text-based)
 
 Objective: Guess a number from 1-100
+
 COME with
 - Built-in timer
 - Close-proximity messages ("You're so close to that number!")
